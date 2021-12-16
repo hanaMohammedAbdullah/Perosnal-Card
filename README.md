@@ -3,20 +3,20 @@
 it is for creating simple Personal card using react under the hood
 
 ## Team Member 
--Salwa Fkri
--Mohammed Salam
--Amanj Azad
--Basira T Ahmed
--Hana Mohammad
+- Salwa Fkri
+- Mohammed Salam
+- Amanj Azad
+- Basira T Ahmed
+- Hana Mohammad
 
 ## Tool used 
-- git & github
+-  git & github
 - VsCode
 
 ## The language used is :
--html
--css
--javaScript
+- Html
+- Css
+- JavaScript
 
 ## Framework or Library used
--React 
+- React 
