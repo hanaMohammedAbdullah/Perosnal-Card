@@ -35,7 +35,7 @@ const app = () => {
 
         ].map((prod) =>
             React.createElement(card, {
-                image: prod.imag e,
+                image: prod.image,
                 name: prod.name,
                 study: prod.study,
                 hobby: prod.hobby,
