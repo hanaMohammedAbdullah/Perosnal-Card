@@ -1,0 +1,18 @@
+.cards {
+    width: 300px;
+    margin: auto;
+}
+
+.heads img {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+.bottoms {
+    justify-content: center;
+    background-color: grey;
+    text-align: center;
+}
